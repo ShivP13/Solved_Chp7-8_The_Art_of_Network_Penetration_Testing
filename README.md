@@ -1,1 +1,3 @@
 # Solved_Chp7-8_The_Art_of_Network_Penetration_Testing
+
+Chapters 7 and 8 collectively guide readers through the exploit development life cycle, focusing on the MS17-010 vulnerability (Eternal Blue) and post-exploitation activities using Metasploit. In Chapter 7, we explore exploiting unpatched systems, utilizing Metasploit for enhanced access, and crafting custom shellcode for Exploit-DB exploits. Chapter 8 shifts to maintaining persistent Meterpreter access, covering domain-cached credential harvesting, memory-based credential extraction, and filesystem searches for configuration file credentials. The journey concludes with a deep dive into lateral movement using Pass-the-Hash, providing a comprehensive approach to network security and access control.
